@@ -1,0 +1,13 @@
+﻿  Airplane.cpp
+C:\Users\mitro\source\repos\TicketsGalore\Airplane.cpp(7,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mitro\source\repos\TicketsGalore\Airplane.cpp(8,27): warning C4018: '<': signed/unsigned mismatch
+  Bus.cpp
+C:\Users\mitro\source\repos\TicketsGalore\Bus.cpp(9,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mitro\source\repos\TicketsGalore\Bus.cpp(10,27): warning C4018: '<': signed/unsigned mismatch
+  CountryTransit.cpp
+  TicketsGalore.cpp
+  Train.cpp
+C:\Users\mitro\source\repos\TicketsGalore\Train.cpp(7,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mitro\source\repos\TicketsGalore\Train.cpp(8,27): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  TicketsGalore.vcxproj -> C:\Users\mitro\source\repos\TicketsGalore\Debug\TicketsGalore.exe

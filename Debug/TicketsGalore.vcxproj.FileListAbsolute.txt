@@ -1,0 +1,2 @@
+C:\Users\mitro\source\repos\TicketsGalore\Debug\TicketsGalore.exe
+C:\Users\mitro\source\repos\TicketsGalore\Debug\TicketsGalore.pdb
